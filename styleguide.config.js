@@ -28,6 +28,11 @@ module.exports = {
           }
         }
       ]
+    },
+    resolve: {
+      alias: {
+        'whl_test_component': path.resolve(path.join(__dirname, 'src'), 'index.js')
+      }
     }
   },
   template: {

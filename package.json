@@ -1,5 +1,5 @@
 {
-  "name": "react-styleguidist-example-cra",
+  "name": "whl_test_component",
   "version": "1.0.0",
   "private": true,
   "homepage": "https://github.com/styleguidist/react-styleguidist",
@@ -20,6 +20,8 @@
     "react-styleguidist": "^9.2.0"
   },
   "dependencies": {
+    "babel-plugin-lodash": "^3.3.4",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-polyfill": "^6.26.0",
     "babel-preset-minify": "^0.5.1",
     "dog-names": "^2.0.0",
@@ -37,5 +39,17 @@
     "eject": "react-scripts eject",
     "styleguide": "styleguidist server",
     "styleguide:build": "styleguidist build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

@@ -1,7 +1,9 @@
-{
-  "presets": ["@babel/env", "@babel/preset-react","minify"],
-  "comments": false,
-  "plugins": [
-    "@babel/plugin-proposal-class-properties"
-  ]
-}
+  {
+    "presets": [
+      "@babel/preset-env"
+    ],
+    "plugins": [
+      "transform-react-jsx",
+      "lodash"
+    ]
+  }
