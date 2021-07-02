@@ -4,9 +4,10 @@
   "private": true,
   "homepage": "https://github.com/styleguidist/react-styleguidist",
   "author": {
-    "name": "Artem Sapegin",
+    "name": "WHL",
     "url": "http://sapegin.me/"
   },
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/styleguidist/react-styleguidist.git"
@@ -35,6 +36,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "testbuild":"./node_modules/.bin/babel src --out-dir lib",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "styleguide": "styleguidist server",
