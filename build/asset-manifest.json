@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/styleguidist/react-styleguidist/static/css/main.1d4c7a1b.chunk.css",
+    "main.js": "/styleguidist/react-styleguidist/static/js/main.7eb62691.chunk.js",
+    "main.js.map": "/styleguidist/react-styleguidist/static/js/main.7eb62691.chunk.js.map",
+    "runtime-main.js": "/styleguidist/react-styleguidist/static/js/runtime-main.f771ad35.js",
+    "runtime-main.js.map": "/styleguidist/react-styleguidist/static/js/runtime-main.f771ad35.js.map",
+    "static/js/2.b2ffe529.chunk.js": "/styleguidist/react-styleguidist/static/js/2.b2ffe529.chunk.js",
+    "static/js/2.b2ffe529.chunk.js.map": "/styleguidist/react-styleguidist/static/js/2.b2ffe529.chunk.js.map",
+    "index.html": "/styleguidist/react-styleguidist/index.html",
+    "precache-manifest.45c3cd626ac2d32c2a899a99abd53a01.js": "/styleguidist/react-styleguidist/precache-manifest.45c3cd626ac2d32c2a899a99abd53a01.js",
+    "service-worker.js": "/styleguidist/react-styleguidist/service-worker.js",
+    "static/css/main.1d4c7a1b.chunk.css.map": "/styleguidist/react-styleguidist/static/css/main.1d4c7a1b.chunk.css.map",
+    "static/js/2.b2ffe529.chunk.js.LICENSE.txt": "/styleguidist/react-styleguidist/static/js/2.b2ffe529.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/styleguidist/react-styleguidist/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f771ad35.js",
+    "static/js/2.b2ffe529.chunk.js",
+    "static/css/main.1d4c7a1b.chunk.css",
+    "static/js/main.7eb62691.chunk.js"
+  ]
+}
