@@ -7,7 +7,7 @@
     "name": "WHL",
     "url": "http://sapegin.me/"
   },
-  "main": "build/index.html",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/styleguidist/react-styleguidist.git"
